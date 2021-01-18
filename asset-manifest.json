@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Simple-Rolodex/static/css/main.34fb1600.chunk.css",
+    "main.css": "/Simple-Rolodex/static/css/main.fafb1469.chunk.css",
     "main.js": "/Simple-Rolodex/static/js/main.42c9995e.chunk.js",
     "main.js.map": "/Simple-Rolodex/static/js/main.42c9995e.chunk.js.map",
     "runtime-main.js": "/Simple-Rolodex/static/js/runtime-main.dd9b5824.js",
@@ -10,13 +10,13 @@
     "static/js/3.fe13401e.chunk.js": "/Simple-Rolodex/static/js/3.fe13401e.chunk.js",
     "static/js/3.fe13401e.chunk.js.map": "/Simple-Rolodex/static/js/3.fe13401e.chunk.js.map",
     "index.html": "/Simple-Rolodex/index.html",
-    "static/css/main.34fb1600.chunk.css.map": "/Simple-Rolodex/static/css/main.34fb1600.chunk.css.map",
+    "static/css/main.fafb1469.chunk.css.map": "/Simple-Rolodex/static/css/main.fafb1469.chunk.css.map",
     "static/js/2.d2edf66e.chunk.js.LICENSE.txt": "/Simple-Rolodex/static/js/2.d2edf66e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.dd9b5824.js",
     "static/js/2.d2edf66e.chunk.js",
-    "static/css/main.34fb1600.chunk.css",
+    "static/css/main.fafb1469.chunk.css",
     "static/js/main.42c9995e.chunk.js"
   ]
 }
